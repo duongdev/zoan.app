@@ -20,11 +20,11 @@
     "test:e2e": "NODE_ENV=test jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "@nestjs/common": "11.0.1",
-    "@nestjs/core": "11.0.1",
+    "@nestjs/common": "11.0.3",
+    "@nestjs/core": "11.0.3",
     "@nestjs/graphql": "13.0.1",
-    "@nestjs/platform-express": "11.0.1",
-    "@nestjs/platform-fastify": "11.0.1",
+    "@nestjs/platform-express": "11.0.3",
+    "@nestjs/platform-fastify": "11.0.3",
     "@nestjs/serve-static": "4.0.2",
     "@typegoose/typegoose": "12.10.1",
     "@apollo/server": "4.11.3",
@@ -45,7 +45,7 @@
   "devDependencies": {
     "@nestjs/cli": "10.4.9",
     "@nestjs/schematics": "11.0.0",
-    "@nestjs/testing": "11.0.1",
+    "@nestjs/testing": "11.0.3",
     "@types/dotenv": "8.2.3",
     "@types/express": "5.0.0",
     "@types/jest": "29.5.14",
